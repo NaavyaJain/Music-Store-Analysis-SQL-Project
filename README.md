@@ -17,7 +17,7 @@ Through this project, I explored the database, analyzed sales data, and generate
 - Chinook Music Store Database
 
 ## Database Description
-The Chinook database represents a digital music store and contains information about:
+The Chinook database was obtained from Kaggle. It represents a digital music store and contains information about:
 
 - Customers
 - Employees
